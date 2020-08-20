@@ -1,4 +1,6 @@
 # Graphic Design Theory
+---
+# Typography
 
 ## Typography terms
 * Kerning space between characters
@@ -23,15 +25,39 @@
 * Sans-Serif no such accents
   * Great for Headlines
   * Pairs great with Serif fonts, but not other sans-serif fonts
+  * Clean, modern and high impact
 * Script
 
-## Font Matching 
-* Bold fonts pair great with thin fonts
-* Thin fonts pair great with bold fonts
+## Font Pairing 
+* Alway look for contrasting fonts (sans/serif, lower/caps, bold/thin)
+* Balance is key
+* No more then 2/3 font types
+
+## Font Emoting
 * Wide spacing can be elegant
 * Tight spacing can be loud and bold
 * Spacing works great with capital letters, but terrible with lower case ones and script fonts
 * Italics work great to accentuate small areas, while breaking up the monotony 
 * Lower case letters have a softer more gentle feeling 
 * All caps have a hard and more stronger feeling
-* Balance is key
+
+## Font Setup
+* use a list of 20 favorite fonts
+
+## Serif
+* Garamont
+* Berkeley
+* Palatino
+* Didot
+* Bodoni
+* Archer Pro
+
+## Sans-Serif
+* Helvetica
+* Cassina
+* Futura
+* Avant garde
+
+## Alignment
+* Follow the subjects matters direction
+* Use enough white space to let design breathe
