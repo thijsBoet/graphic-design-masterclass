@@ -51,13 +51,60 @@
 * Didot
 * Bodoni
 * Archer Pro
+* Mrs Eaves
 
 ## Sans-Serif
 * Helvetica
 * Cassina
 * Futura
 * Avant garde
+* Gotham
 
 ## Alignment
 * Follow the subjects matters direction
-* Use enough white space to let design breathe
+* Use enough white space to let designs breathe
+
+## Large texts
+* Readable
+* Pleasurable
+* Well Crafted
+
+## How to
+* Unhyphenated
+* Use Columns to prevent wide stretches of text
+* Use Justify Left and right for a cleaner look
+* Use (Sub)headings to break up long texts and make it visually interesting
+* Use Quotes, bold, underlines and italics to break up texts
+
+---
+# Color
+
+## Color wheel
+* Warm => Cool
+* Primary colors
+  * Red
+  * Yellow
+  * Blue
+* Secondary colors
+  * Orange
+  * Purple
+  * Green 
+
+## Color terms
+* Hue - a color of shade without greys, blacks and whites
+  * Yellow
+  * Orange
+  * Red
+  * Purple
+  * Blue
+  * Green
+* Tint - a hue with only white added to it
+* Shade - a hue with only black added to it
+* Tone - Same as Tint or Shade with color grey added to it
+
+## Color Harmonies
+* Analogous - close together on the color wheel 
+* Complementary - opposite on color wheel (heavy contrasting)
+* Compound - opposite on color wheel and two colors adjacent to its complementary color
+* Triad - three colors evenly spaced around color wheel (heavy contrasting)
+* Monochromatic - Same color hue with different tints and shades
