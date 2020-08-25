@@ -108,3 +108,42 @@
 * Compound - opposite on color wheel and two colors adjacent to its complementary color
 * Triad - three colors evenly spaced around color wheel (heavy contrasting)
 * Monochromatic - Same color hue with different tints and shades
+
+## Psychology of color
+* red - excitement, passion, danger, energy, and action
+* orange - creativity, adventure, enthusiasm, success, and balance
+* yellow - happiness, positivity, optimism, and summer but also of deceit and warning
+* pink - femininity, playfulness, immaturity and unconditional love
+* green - growth, fertility, health, and generosity
+* blue - stability, harmony, peace, calm and trust
+* purple - power, nobility, luxury, wisdom, and spirituality
+* white - innocence, goodness, cleanliness, and humility
+* black - mystery, power, elegance, and sophistication
+* grey - clean, calm and neutral
+* brown - comfort, security and a down to earth
+
+## Color Theory
+* Gradients - transition from one color to another
+* Color transition - a two color gradient that slowly transitions over a given area
+* Duotones - two different inks/tones applied to create an image 
+* Monotones - one ink/tone used to create image (Like Black & WHite)
+* Blending modes - types of transparency blending settings
+
+---
+# Layout
+Creating a synergy between font, photo and design elements
+
+## Layout guidelines
+* Make your designs breathe by adding enough white space. Add margin and padding.
+* Add information in order of key importance and group information that belongs together
+* Divide up important information, turn content into separate blocks to create order, line these up with grids and guides to create even spaces
+* Create a balance between all elements, don't let them compete with each other
+* Don’t forget where the focal point should be in the composition 
+* Prevent long headings, maybe use a subline instead
+* Follow the general flow of the picture
+
+## Small design details
+* use textures to fill the void of large blocks of space
+* use the burn tool to burn the edges to create a highlighted middle area
+* play around with opacity and blending modes
+* use textures on typography
